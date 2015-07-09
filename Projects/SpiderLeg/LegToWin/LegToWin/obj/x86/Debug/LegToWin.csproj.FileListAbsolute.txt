@@ -1,0 +1,9 @@
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\bin\Debug\LegToWin.exe
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\bin\Debug\LegToWin.pdb
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\LegToWin.Form1.resources
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\LegToWin.Properties.Resources.resources
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\LegToWin.exe
+C:\Users\Thierry Pouplier\Google Drive\Projet\SpiderLeg\LegToWin\LegToWin\obj\x86\Debug\LegToWin.pdb
