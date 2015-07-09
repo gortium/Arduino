@@ -1,0 +1,4 @@
+- Matrix de LED. 8x8 minumum... beaucoup plus si possible
+- Activation automatique quand il fait noir
+- Intencite ajustable
+- Mode manuel ou automatique avec changement d’effect selon l’heure
